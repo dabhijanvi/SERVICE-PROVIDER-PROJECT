@@ -1,0 +1,6 @@
+offer_id
+offer_name
+offer_description
+offer_photo
+offer_start_date
+offer_end_date
