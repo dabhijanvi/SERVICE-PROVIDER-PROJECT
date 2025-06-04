@@ -10,3 +10,4 @@
 ![image](https://github.com/dabhijanvi/SERVICE-PROVIDER-PROJECT/blob/8e726b0b6d3a9759c815f55f79d9efd6feaaa3af/visitor/v-login.png)
 ![image](https://github.com/dabhijanvi/SERVICE-PROVIDER-PROJECT/blob/1e061840ffc267065b99241bc2f9cf1db8c4b6be/visitor/v-cate.png)
 ![image](https://github.com/dabhijanvi/SERVICE-PROVIDER-PROJECT/blob/fa5007d9a5388af598798519dc6b8867ff498ba9/visitor/v-sub-cate.png)
+![image](https://github.com/dabhijanvi/SERVICE-PROVIDER-PROJECT/blob/e85bd1acce57e91a3bcf568242d2d64f0a5c0243/visitor/v-details-view.png)
